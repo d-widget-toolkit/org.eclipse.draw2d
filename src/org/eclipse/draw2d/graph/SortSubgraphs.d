@@ -13,6 +13,11 @@
 module org.eclipse.draw2d.graph.SortSubgraphs;
 
 import java.lang.all;
+import java.util.HashSet;
+import java.util.Set;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
 import org.eclipse.draw2d.graph.GraphVisitor;
 import org.eclipse.draw2d.graph.NestingTree;
 import org.eclipse.draw2d.graph.CompoundDirectedGraph;

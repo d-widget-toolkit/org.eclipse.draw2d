@@ -13,6 +13,8 @@
 module org.eclipse.draw2d.graph.DirectedGraphLayout;
 
 import java.lang.all;
+import java.util.ArrayList;
+import java.util.List;
 import org.eclipse.draw2d.graph.TransposeMetrics;
 import org.eclipse.draw2d.graph.BreakCycles;
 import org.eclipse.draw2d.graph.RouteEdges;

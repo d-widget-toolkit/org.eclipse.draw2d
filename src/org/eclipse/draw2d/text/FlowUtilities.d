@@ -14,8 +14,8 @@ module org.eclipse.draw2d.text.FlowUtilities;
 
 import java.lang.all;
 
-import org.eclipse.dwtxhelper.mangoicu.UBreakIterator;
-import org.eclipse.dwtxhelper.mangoicu.ULocale;
+import java.mangoicu.UBreakIterator;
+import java.mangoicu.ULocale;
 
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.graphics.Font;

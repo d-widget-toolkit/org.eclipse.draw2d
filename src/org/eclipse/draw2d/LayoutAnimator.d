@@ -14,6 +14,9 @@
 module org.eclipse.draw2d.LayoutAnimator;
 
 import java.lang.all;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 import org.eclipse.draw2d.geometry.Rectangle;
 import org.eclipse.draw2d.Animator;

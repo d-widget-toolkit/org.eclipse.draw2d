@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.LightweightSystem;
 
 import java.lang.all;
+import java.util.Set;
 
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.accessibility.AccessibleControlEvent;

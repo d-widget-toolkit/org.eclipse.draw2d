@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.text.BlockFlow;
 
 import java.lang.all;
+import java.util.List;
 
 import org.eclipse.swt.SWT;
 import org.eclipse.draw2d.ColorConstants;

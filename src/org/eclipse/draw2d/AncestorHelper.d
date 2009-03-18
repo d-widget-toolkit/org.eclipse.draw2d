@@ -13,7 +13,8 @@
 module org.eclipse.draw2d.AncestorHelper;
 
 import java.lang.all;
-import org.eclipse.dwtxhelper.Bean;
+import java.beans.PropertyChangeEvent;
+import java.beans.PropertyChangeListener;
 
 import org.eclipse.draw2d.IFigure;
 import org.eclipse.draw2d.FigureListener;

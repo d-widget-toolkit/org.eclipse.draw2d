@@ -13,6 +13,8 @@
 module org.eclipse.draw2d.FlowLayout;
 
 import java.lang.all;
+import java.util.Iterator;
+import java.util.List;
 
 import org.eclipse.draw2d.geometry.Dimension;
 import org.eclipse.draw2d.geometry.Rectangle;

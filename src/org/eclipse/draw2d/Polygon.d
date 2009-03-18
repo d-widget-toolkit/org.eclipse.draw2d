@@ -14,6 +14,7 @@
 module org.eclipse.draw2d.Polygon;
 
 import java.lang.all;
+import java.util.List;
 import org.eclipse.draw2d.Polyline;
 import org.eclipse.draw2d.Graphics;
 import org.eclipse.draw2d.IFigure;

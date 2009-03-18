@@ -13,7 +13,8 @@
 module org.eclipse.draw2d.DefaultRangeModel;
 
 import java.lang.all;
-import org.eclipse.dwtxhelper.Bean;
+import java.beans.PropertyChangeListener;
+import java.beans.PropertyChangeSupport;
 import tango.text.convert.Format;
 
 import org.eclipse.draw2d.RangeModel;

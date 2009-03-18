@@ -14,6 +14,10 @@ module org.eclipse.draw2d.graph.Vertex;
 
 import tango.text.convert.Format;
 import java.lang.all;
+import java.util.HashMap;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
 
 import org.eclipse.draw2d.PositionConstants;
 import org.eclipse.draw2d.geometry.Point;

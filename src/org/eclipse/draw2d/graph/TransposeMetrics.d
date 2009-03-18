@@ -14,6 +14,7 @@
 module org.eclipse.draw2d.graph.TransposeMetrics;
 
 import java.lang.all;
+import java.util.List;
 
 import org.eclipse.draw2d.PositionConstants;
 import org.eclipse.draw2d.geometry.Transposer;

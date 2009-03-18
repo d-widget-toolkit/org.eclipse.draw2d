@@ -13,6 +13,9 @@
 module org.eclipse.draw2d.PrinterGraphics;
 
 import java.lang.all;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
 
 import org.eclipse.swt.graphics.Font;
 import org.eclipse.swt.graphics.FontData;

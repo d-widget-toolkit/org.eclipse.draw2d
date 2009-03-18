@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.text.FlowContainerLayout;
 
 import java.lang.all;
+import java.util.List;
 
 import org.eclipse.draw2d.Figure;
 import org.eclipse.draw2d.text.FlowFigureLayout;

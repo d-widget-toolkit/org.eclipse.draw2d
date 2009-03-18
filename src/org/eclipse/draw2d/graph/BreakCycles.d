@@ -13,6 +13,8 @@
 module org.eclipse.draw2d.graph.BreakCycles;
 
 import java.lang.all;
+import java.util.ArrayList;
+import java.util.List;
 import org.eclipse.draw2d.graph.GraphVisitor;
 import org.eclipse.draw2d.graph.NodeList;
 import org.eclipse.draw2d.graph.DirectedGraph;

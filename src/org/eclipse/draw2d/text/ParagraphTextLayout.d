@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.text.ParagraphTextLayout;
 
 import java.lang.all;
+import java.util.List;
 
 import org.eclipse.swt.graphics.Font;
 import org.eclipse.draw2d.text.TextLayout;

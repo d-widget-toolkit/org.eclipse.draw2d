@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.text.FlowFigure;
 
 import java.lang.all;
+import java.util.Iterator;
 
 import org.eclipse.draw2d.Figure;
 import org.eclipse.draw2d.IFigure;

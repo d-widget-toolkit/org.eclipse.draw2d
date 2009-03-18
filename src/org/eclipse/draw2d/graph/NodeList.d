@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.graph.NodeList;
 
 import java.lang.all;
+import java.util.ArrayList;
 import org.eclipse.draw2d.graph.Node;
 
 /**

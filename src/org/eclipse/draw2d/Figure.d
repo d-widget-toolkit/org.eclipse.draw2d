@@ -13,7 +13,13 @@
 module org.eclipse.draw2d.Figure;
 
 import java.lang.all;
-import org.eclipse.dwtxhelper.Bean;
+import java.util.Collections;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.Collection;
+import java.util.List;
+import java.beans.PropertyChangeListener;
+import java.beans.PropertyChangeSupport;
 
 import org.eclipse.swt.graphics.Color;
 import org.eclipse.swt.graphics.Cursor;

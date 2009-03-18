@@ -13,7 +13,10 @@
 module org.eclipse.draw2d.FigureCanvas;
 
 import java.lang.all;
-import org.eclipse.dwtxhelper.Bean;
+import java.util.Collection;
+import java.util.Map;
+import java.beans.PropertyChangeListener;
+import java.beans.PropertyChangeEvent;
 
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.events.SelectionAdapter;
@@ -268,7 +271,7 @@ public Viewport getViewport() {
  */
 private void hook() {
     getLightweightSystem().getUpdateManager().addUpdateListener(new class() UpdateListener {
-        public void notifyPainting(Rectangle damage, org.eclipse.dwtxhelper.Collection.Map dirtyRegions) { }
+        public void notifyPainting(Rectangle damage, java.util.Map.Map dirtyRegions) { }
         public void notifyValidating() {
             if (!isDisposed())
                 layoutViewport();

@@ -13,6 +13,9 @@
 module org.eclipse.draw2d.graph.CompoundRankSorter;
 
 import java.lang.all;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
 import org.eclipse.draw2d.graph.RankSorter;
 import org.eclipse.draw2d.graph.Subgraph;
 import org.eclipse.draw2d.graph.Node;

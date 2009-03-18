@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.graph.CompoundPopulateRanks;
 
 import java.lang.all;
+import java.util.Iterator;
 import org.eclipse.draw2d.graph.PopulateRanks;
 import org.eclipse.draw2d.graph.DirectedGraph;
 import org.eclipse.draw2d.graph.Subgraph;

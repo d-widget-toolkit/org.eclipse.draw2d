@@ -13,8 +13,8 @@
 module org.eclipse.draw2d.text.BidiProcessor;
 
 import java.lang.all;
-
-//import org.eclipse.dwtxhelper.UBidi;
+import java.util.ArrayList;
+import java.util.List;
 
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.graphics.TextLayout;
@@ -249,8 +249,7 @@ public void process() {
         layout.setOrientation(SWT.LEFT_TO_RIGHT);
     } finally {
         //will cause the fields to be reset for the next string to be processed
-        //bidiText = null;
-        bidiText.clear();
+        bidiText = null;
         list.clear();
     }
 }

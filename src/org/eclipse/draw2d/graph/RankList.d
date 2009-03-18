@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.graph.RankList;
 
 import java.lang.all;
+import java.util.ArrayList;
 import org.eclipse.draw2d.graph.Rank;
 
 /**

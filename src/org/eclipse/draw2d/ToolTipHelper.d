@@ -13,9 +13,8 @@
 module org.eclipse.draw2d.ToolTipHelper;
 
 import java.lang.all;
-import org.eclipse.swt.dwthelper.Runnable;
-import org.eclipse.dwtxhelper.Timer;
-import org.eclipse.dwtxhelper.TimerTask;
+import java.util.Timer;
+import java.util.TimerTask;
 
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.events.MouseTrackAdapter;

@@ -13,6 +13,8 @@
 module org.eclipse.draw2d.PolylineConnection;
 
 import java.lang.all;
+import java.util.ArrayList;
+import java.util.List;
 
 import org.eclipse.draw2d.geometry.Point;
 import org.eclipse.draw2d.geometry.Rectangle;

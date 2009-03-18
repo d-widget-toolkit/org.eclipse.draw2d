@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.ChangeEvent;
 
 import java.lang.all;
+import java.util.EventObject;
 
 /**
  * An event for property changes.  Includes the source of the event as well as the name of

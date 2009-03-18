@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.AutomaticRouter;
 
 import java.lang.all;
+import java.util.ArrayList;
 
 import org.eclipse.draw2d.geometry.Point;
 import org.eclipse.draw2d.geometry.PointList;

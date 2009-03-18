@@ -14,7 +14,7 @@ module org.eclipse.draw2d.RangeModel;
 
 import java.lang.all;
 
-import org.eclipse.dwtxhelper.Bean;
+import java.beans.PropertyChangeListener;
 
 /**
  * This interface represents a range of possible values as well as the current values.

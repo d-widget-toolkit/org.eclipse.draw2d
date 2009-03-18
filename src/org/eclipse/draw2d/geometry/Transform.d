@@ -91,7 +91,7 @@ public Point getTransformed(Point p) {
     temp = x * cos - y * sin;
     y    = x * sin + y * cos;
     x = temp;
-    return new Point(Math.round(x + dx), Math.round(y + dy));
+    return new Point(cast(double)Math.round(x + dx), cast(double)Math.round(y + dy));
 }
 
 }

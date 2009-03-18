@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.EventListenerList;
 
 import java.lang.all;
+import java.util.Iterator;
 
 
 /**

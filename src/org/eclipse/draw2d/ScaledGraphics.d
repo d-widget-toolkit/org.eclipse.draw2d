@@ -13,6 +13,11 @@
 module org.eclipse.draw2d.ScaledGraphics;
 
 import java.lang.all;
+import java.util.HashMap;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Map;
 
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.graphics.Color;

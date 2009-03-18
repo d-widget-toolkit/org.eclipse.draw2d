@@ -13,6 +13,8 @@
 module org.eclipse.draw2d.InputEvent;
 
 import java.lang.all;
+import java.util.EventObject;
+import java.util.EventObject;
 
 import org.eclipse.swt.SWT;
 import org.eclipse.draw2d.EventDispatcher;

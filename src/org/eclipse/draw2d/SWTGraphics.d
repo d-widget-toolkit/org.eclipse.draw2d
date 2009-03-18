@@ -13,6 +13,9 @@
 module org.eclipse.draw2d.SWTGraphics;
 
 import java.lang.all;
+import java.util.Set;
+import java.util.ArrayList;
+import java.util.List;
 static import org.eclipse.swt.graphics.Rectangle;
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.graphics.Color;

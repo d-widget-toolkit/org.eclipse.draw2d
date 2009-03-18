@@ -13,6 +13,8 @@
 module org.eclipse.draw2d.graph.RankAssignmentSolver;
 
 import java.lang.all;
+import java.util.Stack;
+import java.util.Iterator;
 import org.eclipse.draw2d.graph.SpanningTreeVisitor;
 import org.eclipse.draw2d.graph.EdgeList;
 import org.eclipse.draw2d.graph.Edge;

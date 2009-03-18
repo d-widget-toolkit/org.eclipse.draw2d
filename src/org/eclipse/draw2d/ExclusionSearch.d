@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.ExclusionSearch;
 
 import java.lang.all;
+import java.util.Collection;
 
 import org.eclipse.draw2d.TreeSearch;
 import org.eclipse.draw2d.IFigure;

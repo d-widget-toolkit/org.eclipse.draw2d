@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.ActionEvent;
 
 import java.lang.all;
+import java.util.EventObject;
 
 /**
  * An event that occurs as a result of an action being performed.

@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.ToolbarLayout;
 
 import java.lang.all;
+import java.util.List;
 
 import org.eclipse.draw2d.geometry.Dimension;
 import org.eclipse.draw2d.geometry.Insets;

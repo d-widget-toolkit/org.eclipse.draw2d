@@ -14,6 +14,11 @@
 module org.eclipse.draw2d.Animation;
 
 import java.lang.all;
+import java.util.HashSet;
+import java.util.HashMap;
+import java.util.Set;
+import java.util.Iterator;
+import java.util.Map;
 
 import org.eclipse.draw2d.Animator;
 import org.eclipse.draw2d.IFigure;

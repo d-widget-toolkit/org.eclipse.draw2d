@@ -13,7 +13,8 @@
 module org.eclipse.draw2d.graph.RankSorter;
 
 import java.lang.all;
-import org.eclipse.dwtxhelper.Random;
+import java.util.Collections;
+import java.util.Random;
 import org.eclipse.draw2d.graph.Node;
 import org.eclipse.draw2d.graph.Rank;
 import org.eclipse.draw2d.graph.DirectedGraph;

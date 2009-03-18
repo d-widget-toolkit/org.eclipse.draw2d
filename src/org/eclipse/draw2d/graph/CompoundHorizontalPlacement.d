@@ -13,6 +13,8 @@
 module org.eclipse.draw2d.graph.CompoundHorizontalPlacement;
 
 import java.lang.all;
+import java.util.HashSet;
+import java.util.Set;
 import org.eclipse.draw2d.graph.HorizontalPlacement;
 import org.eclipse.draw2d.graph.Node;
 import org.eclipse.draw2d.graph.RankList;

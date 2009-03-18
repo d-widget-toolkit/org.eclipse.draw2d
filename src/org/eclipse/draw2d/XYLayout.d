@@ -13,6 +13,10 @@
 module org.eclipse.draw2d.XYLayout;
 
 import java.lang.all;
+import java.util.ListIterator;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
 
 import org.eclipse.draw2d.geometry.Dimension;
 import org.eclipse.draw2d.geometry.Insets;

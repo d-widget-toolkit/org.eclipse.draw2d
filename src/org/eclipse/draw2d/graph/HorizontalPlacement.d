@@ -13,6 +13,13 @@
 module org.eclipse.draw2d.graph.HorizontalPlacement;
 
 import java.lang.all;
+import java.util.HashSet;
+import java.util.HashMap;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.Collection;
+import java.util.List;
+import java.util.Map;
 import org.eclipse.draw2d.graph.SpanningTreeVisitor;
 import org.eclipse.draw2d.graph.NodeCluster;
 import org.eclipse.draw2d.graph.NodePair;

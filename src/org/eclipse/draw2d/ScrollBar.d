@@ -14,7 +14,8 @@ module org.eclipse.draw2d.ScrollBar;
 
 import java.lang.all;
 
-import org.eclipse.dwtxhelper.Bean;
+import java.beans.PropertyChangeListener;
+import java.beans.PropertyChangeEvent;
 
 import org.eclipse.swt.graphics.Color;
 import org.eclipse.draw2d.geometry.Dimension;

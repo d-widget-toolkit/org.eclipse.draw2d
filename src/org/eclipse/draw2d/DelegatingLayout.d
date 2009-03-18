@@ -13,6 +13,9 @@
 module org.eclipse.draw2d.DelegatingLayout;
 
 import java.lang.all;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 import org.eclipse.draw2d.geometry.Dimension;
 import org.eclipse.draw2d.IFigure;

@@ -13,7 +13,8 @@
 module org.eclipse.draw2d.parts.ScrollableThumbnail;
 
 import java.lang.all;
-import org.eclipse.dwtxhelper.Bean;
+import java.beans.PropertyChangeListener;
+import java.beans.PropertyChangeEvent;
 
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.graphics.Image;

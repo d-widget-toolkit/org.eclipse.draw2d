@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.text.FlowAdapter;
 
 import java.lang.all;
+import java.util.Iterator;
 
 import org.eclipse.draw2d.IFigure;
 import org.eclipse.draw2d.geometry.Dimension;

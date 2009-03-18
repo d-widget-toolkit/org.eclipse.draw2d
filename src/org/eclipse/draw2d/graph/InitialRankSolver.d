@@ -13,6 +13,9 @@
 module org.eclipse.draw2d.graph.InitialRankSolver;
 
 import java.lang.all;
+import java.util.Stack;
+import java.util.ArrayList;
+import java.util.List;
 import org.eclipse.draw2d.graph.GraphVisitor;
 import org.eclipse.draw2d.graph.DirectedGraph;
 import org.eclipse.draw2d.graph.NodeList;

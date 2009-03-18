@@ -13,7 +13,6 @@
 module org.eclipse.draw2d.ColorConstants;
 
 import java.lang.all;
-import org.eclipse.swt.dwthelper.Runnable;
 import tango.core.sync.Mutex;
 
 import org.eclipse.swt.SWT;

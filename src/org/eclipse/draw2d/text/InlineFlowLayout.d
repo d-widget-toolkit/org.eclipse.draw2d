@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.text.InlineFlowLayout;
 
 import java.lang.all;
+import java.util.List;
 import org.eclipse.draw2d.text.FlowContainerLayout;
 import org.eclipse.draw2d.text.FlowFigure;
 import org.eclipse.draw2d.text.LineBox;

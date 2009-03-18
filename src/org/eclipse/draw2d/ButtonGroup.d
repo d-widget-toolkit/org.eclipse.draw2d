@@ -13,7 +13,10 @@
 module org.eclipse.draw2d.ButtonGroup;
 
 import java.lang.all;
-import org.eclipse.dwtxhelper.Bean;
+import java.util.ArrayList;
+import java.util.List;
+import java.beans.PropertyChangeEvent;
+import java.beans.PropertyChangeListener;
 
 import org.eclipse.draw2d.ButtonModel;
 

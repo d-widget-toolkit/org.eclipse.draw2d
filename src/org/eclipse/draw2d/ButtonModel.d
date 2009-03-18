@@ -13,9 +13,9 @@
 module org.eclipse.draw2d.ButtonModel;
 
 import java.lang.all;
-import org.eclipse.swt.dwthelper.Runnable;
-import org.eclipse.dwtxhelper.Timer;
-import org.eclipse.dwtxhelper.TimerTask;
+import java.util.Iterator;
+import java.util.Timer;
+import java.util.TimerTask;
 static import org.eclipse.swt.widgets.Display;
 
 import org.eclipse.draw2d.ButtonGroup;

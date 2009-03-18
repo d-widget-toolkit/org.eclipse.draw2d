@@ -13,7 +13,8 @@
 module org.eclipse.draw2d.parts.Thumbnail;
 
 import java.lang.all;
-import org.eclipse.swt.dwthelper.Runnable;
+import java.util.Iterator;
+import java.util.Map;
 
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.graphics.Color;

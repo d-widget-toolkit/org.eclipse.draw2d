@@ -13,6 +13,8 @@
 module org.eclipse.draw2d.LayeredPane;
 
 import java.lang.all;
+import java.util.ArrayList;
+import java.util.List;
 import org.eclipse.draw2d.Layer;
 import org.eclipse.draw2d.IFigure;
 import org.eclipse.draw2d.StackLayout;

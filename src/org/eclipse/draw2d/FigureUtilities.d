@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.FigureUtilities;
 
 import java.lang.all;
+import java.util.ArrayList;
 
 
 import org.eclipse.swt.graphics.Color;

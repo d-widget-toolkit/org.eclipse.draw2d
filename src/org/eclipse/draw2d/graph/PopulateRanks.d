@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.graph.PopulateRanks;
 
 import java.lang.all;
+import java.util.Stack;
 import org.eclipse.draw2d.graph.RevertableChange;
 import org.eclipse.draw2d.graph.GraphVisitor;
 import org.eclipse.draw2d.graph.DirectedGraph;

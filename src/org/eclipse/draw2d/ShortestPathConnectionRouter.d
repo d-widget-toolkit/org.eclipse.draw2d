@@ -13,6 +13,13 @@
 module org.eclipse.draw2d.ShortestPathConnectionRouter;
 
 import java.lang.all;
+import java.util.Collections;
+import java.util.HashSet;
+import java.util.HashMap;
+import java.util.Set;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Map;
 
 import org.eclipse.draw2d.geometry.Point;
 import org.eclipse.draw2d.geometry.PointList;

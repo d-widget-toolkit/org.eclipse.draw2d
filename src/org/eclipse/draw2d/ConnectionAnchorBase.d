@@ -13,6 +13,9 @@
 module org.eclipse.draw2d.ConnectionAnchorBase;
 
 import java.lang.all;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
 
 import org.eclipse.draw2d.ConnectionAnchor;
 import org.eclipse.draw2d.AnchorListener;

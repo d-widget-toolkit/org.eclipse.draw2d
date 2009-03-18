@@ -13,7 +13,7 @@
 module org.eclipse.draw2d.UpdateManager;
 
 import java.lang.all;
-import org.eclipse.swt.dwthelper.Runnable;
+import java.util.Map;
 
 import org.eclipse.swt.graphics.GC;
 import org.eclipse.draw2d.geometry.Rectangle;

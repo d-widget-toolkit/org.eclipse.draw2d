@@ -13,6 +13,9 @@
 module org.eclipse.draw2d.text.LineBox;
 
 import java.lang.all;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
 import org.eclipse.draw2d.text.CompositeBox;
 import org.eclipse.draw2d.text.FlowBox;
 

@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.Polyline;
 
 import java.lang.all;
+import java.util.List;
 
 import org.eclipse.draw2d.geometry.Point;
 import org.eclipse.draw2d.geometry.PointList;

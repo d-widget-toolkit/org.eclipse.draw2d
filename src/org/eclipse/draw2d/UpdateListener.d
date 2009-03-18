@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.UpdateListener;
 
 import java.lang.all;
+import java.util.Map;
 
 import org.eclipse.draw2d.geometry.Rectangle;
 

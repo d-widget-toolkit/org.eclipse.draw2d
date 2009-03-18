@@ -13,6 +13,10 @@
 module org.eclipse.draw2d.graph.NestingTree;
 
 import java.lang.all;
+import java.util.HashMap;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
 import org.eclipse.draw2d.graph.Node;
 import org.eclipse.draw2d.graph.Rank;
 import org.eclipse.draw2d.graph.Subgraph;

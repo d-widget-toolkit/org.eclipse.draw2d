@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.graph.NodeCluster;
 
 import java.lang.all;
+import java.util.Collection;
 import org.eclipse.draw2d.graph.NodeList;
 import org.eclipse.draw2d.graph.CollapsedEdges;
 

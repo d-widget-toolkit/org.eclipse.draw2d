@@ -14,6 +14,8 @@
 module org.eclipse.draw2d.text.LineRoot;
 
 import java.lang.all;
+import java.util.ArrayList;
+import java.util.List;
 
 import org.eclipse.draw2d.geometry.Rectangle;
 import org.eclipse.draw2d.text.LineBox;

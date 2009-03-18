@@ -13,6 +13,7 @@
 module org.eclipse.draw2d.FocusTraverseManager;
 
 import java.lang.all;
+import java.util.List;
 import org.eclipse.draw2d.IFigure;
 
 /**

@@ -13,7 +13,7 @@
 module org.eclipse.draw2d.CheckBox;
 
 import java.lang.all;
-import org.eclipse.swt.dwthelper.ByteArrayInputStream;
+import java.io.ByteArrayInputStream;
 
 import org.eclipse.swt.graphics.Image;
 import org.eclipse.swt.graphics.ImageData;
