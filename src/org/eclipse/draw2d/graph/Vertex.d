@@ -12,7 +12,6 @@
  *******************************************************************************/
 module org.eclipse.draw2d.graph.Vertex;
 
-import tango.text.convert.Format;
 import java.lang.all;
 import java.util.HashMap;
 import java.util.ArrayList;

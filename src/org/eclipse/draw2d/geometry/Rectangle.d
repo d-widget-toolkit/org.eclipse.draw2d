@@ -19,7 +19,6 @@ import org.eclipse.draw2d.geometry.Point;
 import org.eclipse.draw2d.geometry.Dimension;
 import org.eclipse.draw2d.geometry.Insets;
 import org.eclipse.draw2d.PositionConstants;
-import tango.text.convert.Format;
 
 static import org.eclipse.swt.graphics.Rectangle;
 

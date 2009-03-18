@@ -15,7 +15,6 @@ module org.eclipse.draw2d.MouseEvent;
 import java.lang.all;
 
 import org.eclipse.draw2d.geometry.Point;
-import tango.text.convert.Format;
 import org.eclipse.draw2d.InputEvent;
 import org.eclipse.draw2d.EventDispatcher;
 import org.eclipse.draw2d.IFigure;

@@ -13,7 +13,6 @@
 module org.eclipse.draw2d.geometry.Insets;
 
 import java.lang.all;
-import tango.text.convert.Format;
 
 /**
  * Stores four integers for top, left, bottom, and right measurements.

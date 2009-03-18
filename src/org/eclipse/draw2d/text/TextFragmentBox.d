@@ -16,7 +16,6 @@ import java.lang.all;
 import org.eclipse.draw2d.text.ContentBox;
 import org.eclipse.draw2d.text.TextFlow;
 import org.eclipse.draw2d.text.FlowUtilities;
-import tango.text.convert.Format;
 
 /**
  * A Geometric object for representing a TextFragment region on a line of Text.

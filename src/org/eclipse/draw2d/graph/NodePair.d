@@ -14,7 +14,6 @@ module org.eclipse.draw2d.graph.NodePair;
 
 import java.lang.all;
 import org.eclipse.draw2d.graph.Node;
-import tango.text.convert.Format;
 
 /**
  * @author hudsonr

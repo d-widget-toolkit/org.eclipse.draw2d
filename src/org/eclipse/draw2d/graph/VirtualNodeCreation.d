@@ -14,7 +14,6 @@
 module org.eclipse.draw2d.graph.VirtualNodeCreation;
 
 import java.lang.all;
-import tango.text.convert.Format;
 
 import org.eclipse.draw2d.geometry.Insets;
 import org.eclipse.draw2d.graph.Edge;

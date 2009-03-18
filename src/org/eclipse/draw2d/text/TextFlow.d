@@ -35,7 +35,6 @@ import org.eclipse.draw2d.text.ParagraphTextLayout;
 import org.eclipse.draw2d.text.BidiChars;
 import org.eclipse.draw2d.text.FlowBorder;
 
-import tango.text.convert.Format;
 
 /**
  * An inline flow figure that renders a string of text across one or more lines. A

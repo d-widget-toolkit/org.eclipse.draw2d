@@ -14,7 +14,6 @@ module org.eclipse.draw2d.geometry.Ray;
 
 import java.lang.all;
 import java.util.Vector;
-import tango.text.convert.Format;
 
 import org.eclipse.draw2d.geometry.Point;
 

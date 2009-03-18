@@ -21,7 +21,6 @@ import org.eclipse.draw2d.geometry.Rectangle;
 
 static import org.eclipse.swt.graphics.Point;
 
-import tango.text.convert.Format;
 
 /**
  * Represents a point (x, y) in 2-dimensional space.  This class provides various methods

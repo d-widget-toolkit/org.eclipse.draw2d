@@ -13,7 +13,6 @@
 module org.eclipse.draw2d.graph.Obstacle;
 
 import java.lang.all;
-import tango.text.convert.Format;
 
 import org.eclipse.draw2d.PositionConstants;
 import org.eclipse.draw2d.geometry.Point;

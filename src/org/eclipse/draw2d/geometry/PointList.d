@@ -14,7 +14,6 @@ module org.eclipse.draw2d.geometry.PointList;
 
 import java.lang.all;
 import java.util.List;
-import tango.text.convert.Format;
 
 import org.eclipse.draw2d.geometry.Translatable;
 import org.eclipse.draw2d.geometry.Rectangle;

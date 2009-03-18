@@ -13,7 +13,6 @@
 module org.eclipse.draw2d.graph.Segment;
 
 import java.lang.all;
-import tango.text.convert.Format;
 
 import org.eclipse.draw2d.geometry.Geometry;
 import org.eclipse.draw2d.geometry.Point;

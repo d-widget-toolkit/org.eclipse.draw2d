@@ -20,7 +20,6 @@ import org.eclipse.draw2d.geometry.Translatable;
 static import org.eclipse.swt.graphics.Point;
 static import org.eclipse.swt.graphics.Image;
 static import org.eclipse.swt.graphics.Rectangle;
-import tango.text.convert.Format;
 
 /**
  * Stores an integer width and height. This class provides various methods for
