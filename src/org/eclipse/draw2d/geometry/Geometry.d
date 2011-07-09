@@ -65,7 +65,7 @@ public static bool linesIntersect(int ux, int uy, int vx, int vy,
 private static int productSign(long x, long y) {
     if (x is 0 || y is 0) {
         return 0;
-    } else if (x < 0 ^ y < 0) {
+    } else if ((x < 0) ^ (y < 0)) {
         return -1;
     }
     return 1;
